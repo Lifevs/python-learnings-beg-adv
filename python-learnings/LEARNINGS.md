@@ -29,6 +29,7 @@ This log tracks a structured 4-day "Fast-Track" curriculum derived from daily pr
 | **Dynamic Typing** | ![Type System](Screenshot%202026-05-27%20at%2012.05.26%E2%80%AFPM.png) |
 | **Int vs Float** | ![Numeric Types](Screenshot%202026-05-27%20at%2012.05.39%E2%80%AFPM.png) |
 | **Type Checking** | ![isinstance check](Screenshot%202026-05-27%20at%2012.38.21%E2%80%AFPM.png) |
+| **Type Checking (Multi)** | ![isinstance check 3](Screenshot%202026-05-27%20at%2012.37.28%E2%80%AFPM.png) |
 | **Type Checking (Ext)** | ![isinstance check 2](Screenshot%202026-05-27%20at%2012.38.29%E2%80%AFPM.png) |
 
 </details>
@@ -58,6 +59,7 @@ This log tracks a structured 4-day "Fast-Track" curriculum derived from daily pr
 | **Immutability** | ![Immutability](Screenshot%202026-05-28%20at%205.21.10%E2%80%AFPM.png) |
 | **Concatenation** | ![Joining Strings](Screenshot%202026-05-28%20at%205.29.33%E2%80%AFPM.png) |
 | **Interpolation** | ![Dynamic Strings](Screenshot%202026-05-28%20at%205.29.41%E2%80%AFPM.png) |
+| **str() Function** | ![str() quiz](Screenshot%202026-05-28%20at%205.29.38%E2%80%AFPM.png) |
 | **Case Methods** | ![Case Checking](Screenshot%202026-05-28%20at%205.57.25%E2%80%AFPM.png) |
 | **String Replace** | ![Replace Substring](Screenshot%202026-05-28%20at%205.57.33%E2%80%AFPM.png) |
 | **Replace (Ext)** | ![Replace Method](Screenshot%202026-05-28%20at%205.57.37%E2%80%AFPM.png) |
@@ -83,6 +85,7 @@ This log tracks a structured 4-day "Fast-Track" curriculum derived from daily pr
 
 | Topic | Screenshot Evidence |
 | :--- | :--- |
+| **Integer Definition** | ![Integer Quiz](Screenshot%202026-05-28%20at%206.56.13%E2%80%AFPM.png) |
 | **Floor Division** | ![Division Quiz](Screenshot%202026-05-28%20at%206.56.09%E2%80%AFPM.png) |
 | **Absolute Values** | ![abs() check](Screenshot%202026-05-28%20at%206.56.19%E2%80%AFPM.png) |
 | **Augmented Operators** | ![Assignments](Screenshot%202026-05-28%20at%207.00.42%E2%80%AFPM.png) |
