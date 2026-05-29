@@ -1,6 +1,6 @@
-# 🎓 3-Day Python Learning Journey
+# 🎓 4-Day Python Learning Journey
 
-This log tracks a structured 3-day "Fast-Track" curriculum derived from daily practice sessions and screenshot analysis.
+This log tracks a structured 4-day "Fast-Track" curriculum derived from daily practice sessions and screenshot analysis.
 
 ---
 
@@ -8,13 +8,13 @@ This log tracks a structured 3-day "Fast-Track" curriculum derived from daily pr
 *Focus: Getting started, basic syntax, and how Python handles data.*
 
 ### 1. Variables & Syntax Basics
-- **Variable Declaration**: Declared simply as `name = value`. No `let`, `var`, or `const` keywords are required.
+- **Variable Declaration**: Declared simply as `name = value`.
 - **Naming Rules**: Must start with a letter or underscore; case-sensitive; avoid reserved keywords.
 - **Best Practice**: Use descriptive names rather than single letters.
 
 ### 2. Output & Basic Types
 - **The `print()` Function**: Separating values with commas automatically inserts a space.
-- **Dynamic Typing**: Python automatically detects data types (string, number, boolean).
+- **Dynamic Typing**: Python automatically detects data types.
 - **Type Inspection**: Use `type()` to identify the class and `isinstance()` for specific checks.
 
 <details>
@@ -29,6 +29,7 @@ This log tracks a structured 3-day "Fast-Track" curriculum derived from daily pr
 | **Dynamic Typing** | ![Type System](Screenshot%202026-05-27%20at%2012.05.26%E2%80%AFPM.png) |
 | **Int vs Float** | ![Numeric Types](Screenshot%202026-05-27%20at%2012.05.39%E2%80%AFPM.png) |
 | **Type Checking** | ![isinstance check](Screenshot%202026-05-27%20at%2012.38.21%E2%80%AFPM.png) |
+| **Type Checking (Ext)** | ![isinstance check 2](Screenshot%202026-05-27%20at%2012.38.29%E2%80%AFPM.png) |
 
 </details>
 
@@ -59,12 +60,13 @@ This log tracks a structured 3-day "Fast-Track" curriculum derived from daily pr
 | **Interpolation** | ![Dynamic Strings](Screenshot%202026-05-28%20at%205.29.41%E2%80%AFPM.png) |
 | **Case Methods** | ![Case Checking](Screenshot%202026-05-28%20at%205.57.25%E2%80%AFPM.png) |
 | **String Replace** | ![Replace Substring](Screenshot%202026-05-28%20at%205.57.33%E2%80%AFPM.png) |
+| **Replace (Ext)** | ![Replace Method](Screenshot%202026-05-28%20at%205.57.37%E2%80%AFPM.png) |
 
 </details>
 
 ---
 
-## 🔴 Day 3: Numbers, Operators & Career Application
+## 🔴 Day 3: Numbers, Operators & Career Research
 *Focus: Mathematical logic, efficiency, and real-world goals.*
 
 ### 1. Numeric Logic & Operators
@@ -73,9 +75,8 @@ This log tracks a structured 3-day "Fast-Track" curriculum derived from daily pr
 - **Augmented Assignment**: Shortcuts like `+=`, `-=`, and `**=`.
 - **Note**: Python uses `x += 1` instead of `x++`.
 
-### 2. Practice & Real-World Research
-- **FreeCodeCamp**: Building a Report Card Printer.
-- **Career Strategy**: Full Stack AI Engineer internship requirements (Models, Data Structures, Backend).
+### 2. Career Strategy
+- **Research**: Analyzed **Full Stack AI Engineer** internship requirements. Focus on AI Models, Data Structures, and Backend development.
 
 <details>
 <summary>📸 <b>Day 3: Visual Practice Gallery</b> (Click to expand)</summary>
@@ -86,8 +87,32 @@ This log tracks a structured 3-day "Fast-Track" curriculum derived from daily pr
 | **Absolute Values** | ![abs() check](Screenshot%202026-05-28%20at%206.56.19%E2%80%AFPM.png) |
 | **Augmented Operators** | ![Assignments](Screenshot%202026-05-28%20at%207.00.42%E2%80%AFPM.png) |
 | **No Increment Op** | ![Increment Warning](Screenshot%202026-05-28%20at%207.00.47%E2%80%AFPM.png) |
-| **FreeCodeCamp Progress** | ![FCC Step 10](Screenshot%202026-05-27%20at%203.57.38%E2%80%AFPM.png) |
-| **Career Research** | ![AI Internship](Screenshot%202026-05-28%20at%207.00.54%E2%80%AFPM.png) |
+| **Career Research (1)** | ![Internshala AI](Screenshot%202026-05-27%20at%2012.53.14%E2%80%AFPM.png) |
+| **Career Research (2)** | ![Internshala Post](Screenshot%202026-05-28%20at%207.00.54%E2%80%AFPM.png) |
+
+</details>
+
+---
+
+## 🔵 Day 4: Practical Projects & Numeric Precision
+*Focus: Building functional tools and handling data formatting.*
+
+### 1. Hands-on Projects (FreeCodeCamp)
+- **Report Card Printer**: Practiced formatted output and type handling.
+- **Bill Splitter**: Developed a utility to calculate and split shared costs including tips.
+
+### 2. Advanced Numeric Functions
+- **The `round()` Function**: Essential for financial applications. 
+  - Syntax: `round(number, decimal_places)`
+  - Example: `round(62.13437, 2)` results in `62.13`.
+
+<details>
+<summary>📸 <b>Day 4: Visual Practice Gallery</b> (Click to expand)</summary>
+
+| Topic | Screenshot Evidence |
+| :--- | :--- |
+| **Report Card Project** | ![FCC Report Card](Screenshot%202026-05-27%20at%203.57.38%E2%80%AFPM.png) |
+| **Bill Splitter Project** | ![FCC Bill Splitter](Screenshot%202026-05-29%20at%207.43.40%E2%80%AFPM.png) |
 
 </details>
 

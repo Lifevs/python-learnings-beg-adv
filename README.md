@@ -1,6 +1,6 @@
-# Python Learning Journey: 3-Day Fast-Track
+# Python Learning Journey: 4-Day Fast-Track
 
-A curated documentation of my progress from Python basics to functional logic, derived from daily screenshot captures and hands-on exercises.
+A curated documentation of my progress from Python basics to practical financial tools, derived from daily screenshot captures and hands-on exercises.
 
 ## 🗺️ Journey Roadmap
 
@@ -8,13 +8,15 @@ A curated documentation of my progress from Python basics to functional logic, d
   - Variables, naming rules, `print()` dynamics, and the Python type system.
 - [**Day 2: String Mastery & Manipulation**](python-learnings/LEARNINGS.md#day-2-string-mastery--manipulation)
   - Immutability, multiline text, interpolation, and advanced string methods.
-- [**Day 3: Numbers, Operators & Applications**](python-learnings/LEARNINGS.md#day-3-numbers-operators--career-application)
-  - Mathematical operators, floor division, absolute values, and career path research.
+- [**Day 3: Numbers & Career Strategy**](python-learnings/LEARNINGS.md#day-3-numbers-operators--career-research)
+  - Mathematical operators, absolute values, and career path research (Full Stack AI Engineer).
+- [**Day 4: Projects & Precision**](python-learnings/LEARNINGS.md#day-4-practical-projects--numeric-precision)
+  - Building a **Bill Splitter**, mastering `round()`, and completing FreeCodeCamp milestones.
 
 ## 📁 Repository Structure
 
 - **`python-learnings/`**: Root folder for all learning assets.
-  - `LEARNINGS.md`: The main documentation log.
+  - `LEARNINGS.md`: The main documentation log with interactive galleries.
   - `*.png`: Visual evidence of quizzes, code outputs, and certification steps.
 
 ---
