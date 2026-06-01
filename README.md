@@ -2,7 +2,7 @@
 
 A curated documentation of my progress from Python basics to practical financial tools, derived from daily screenshot captures and hands-on exercises.
 
-## 🗺️ Journey Roadmap
+## 🗺️ Journey Roadmap ( beg to adv)
 
 - [**Day 1: Foundations & Type System**](python-learnings/LEARNINGS.md#day-1-python-foundations--type-system)
   - Variables, naming rules, `print()` dynamics, and the Python type system.
