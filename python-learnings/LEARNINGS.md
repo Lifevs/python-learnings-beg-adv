@@ -97,14 +97,32 @@ This log tracks a structured 4-day "Fast-Track" curriculum derived from daily pr
 
 ---
 
-## 🔵 Day 4: Practical Projects & Numeric Precision
-*Focus: Building functional tools and handling data formatting.*
+## 🔵 Day 4: Logic, Control Flow & Booleans
+*Focus: Mastering decision-making logic and building interactive applications.*
 
-### 1. Hands-on Projects (FreeCodeCamp)
+### 1. Booleans & Comparison Operators
+- **Boolean Logic**: Represents one of two states: `True` or `False`.
+- **Comparison Operators**: Used to compare two values (`==`, `!=`, `>`, `<`, `>=`, `<=`).
+- **Result**: Every comparison operation evaluates to a boolean value.
+- **Example**: `3 >= 4` evaluates to `False`.
+
+### 2. Control Flow (`if`, `elif`, `else`)
+- **Conditional Branching**: Uses `if` statements to execute code only when certain conditions are met.
+- **Indentation**: Python relies on consistent whitespace (indentation) to define the scope of code blocks.
+- **Multi-way Branching**: `elif` allows for checking multiple mutually exclusive conditions in sequence.
+
+### 3. Logical Operators & Truthiness
+- **Operator Suite**: `and`, `or`, and `not` are used to combine or invert boolean expressions.
+- **Short-Circuit Evaluation**: In an `or` expression, if the first value is `True`, Python skips evaluating the second value for efficiency.
+- **Falsy Values**: Python considers `0`, `0.0`, `""` (empty string), and `None` as `False`.
+- **Important Distinction**: The string `"False"` is **Truthy** because it is a non-empty string.
+
+### 4. Hands-on Projects (freeCodeCamp)
+- **Movie Ticket Booking Calculator**: Developed complex nested logic to calculate prices based on age, showtime, and membership.
 - **Report Card Printer**: Practiced formatted output and type handling.
 - **Bill Splitter**: Developed a utility to calculate and split shared costs including tips.
 
-### 2. Advanced Numeric Functions
+### 5. Advanced Numeric Functions
 - **The `round()` Function**: Essential for financial applications. 
   - Syntax: `round(number, decimal_places)`
   - Example: `round(62.13437, 2)` results in `62.13`.
@@ -114,6 +132,13 @@ This log tracks a structured 4-day "Fast-Track" curriculum derived from daily pr
 
 | Topic | Screenshot Evidence |
 | :--- | :--- |
+| **Comparison Definition** | ![Comparison Logic](day=4/Screenshot%202026-06-01%20at%206.42.48%E2%80%AFPM.png) |
+| **Comparison Evaluation** | ![Expression Result](day=4/Screenshot%202026-06-01%20at%206.43.18%E2%80%AFPM.png) |
+| **Control Flow (if/elif)** | ![Conditional Logic](day=4/Screenshot%202026-06-01%20at%206.43.05%E2%80%AFPM.png) |
+| **Logical 'and' Op** | ![Logical Operators](day=4/Screenshot%202026-06-01%20at%206.53.28%E2%80%AFPM.png) |
+| **Short-Circuiting** | ![Efficiency Logic](day=4/Screenshot%202026-06-01%20at%206.53.43%E2%80%AFPM.png) |
+| **Falsy Values** | ![Truthiness Quiz](day=4/Screenshot%202026-06-01%20at%206.53.38%E2%80%AFPM.png) |
+| **Movie Ticket Project** | ![FCC Movie Calculator](day=4/Screenshot%202026-06-01%20at%208.33.01%E2%80%AFPM.png) |
 | **Report Card Project** | ![FCC Report Card](Screenshot%202026-05-27%20at%203.57.38%E2%80%AFPM.png) |
 | **Bill Splitter Project** | ![FCC Bill Splitter](Screenshot%202026-05-29%20at%207.43.40%E2%80%AFPM.png) |
 
