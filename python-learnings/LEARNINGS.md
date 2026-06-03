@@ -145,4 +145,27 @@ This log tracks a structured 4-day "Fast-Track" curriculum derived from daily pr
 </details>
 
 ---
+
+## 🟣 Day 5: Advanced Conditionals & Practical Planning
+*Focus: Applying complex logical chains to real-world scenarios.*
+
+### 1. Complex Conditional Logic
+- **Decision Trees**: Structured multiple `if`, `elif`, and `else` blocks to evaluate layered conditions.
+- **Precedence**: Learning to order conditions from most specific to most general for correct execution flow.
+
+### 2. Hands-on Projects (freeCodeCamp)
+- **Travel Weather Planner**: Developed a script to determine commuting feasibility.
+  - Logic: Combines `distance_mi` with boolean flags like `is_raining`, `has_bike`, and `has_car`.
+  - Outcome: Provides a binary `True`/`False` output based on safety and accessibility rules.
+
+<details>
+<summary>📸 <b>Day 5: Visual Practice Gallery</b> (Click to expand)</summary>
+
+| Topic | Screenshot Evidence |
+| :--- | :--- |
+| **Travel Weather Planner** | ![FCC Weather Planner](day-5/Screenshot%202026-06-03%20at%203.12.37%E2%80%AFPM.png) |
+
+</details>
+
+---
 *Documentation structured for optimal learning retention.*
