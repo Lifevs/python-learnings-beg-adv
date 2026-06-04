@@ -1,6 +1,6 @@
-# 🎓 5-Day Python Learning Journey
+# 🎓 6-Day Python Learning Journey
 
-This log tracks a structured 5-day "Fast-Track" curriculum derived from daily practice sessions and screenshot analysis.
+This log tracks a structured 6-day "Fast-Track" curriculum derived from daily practice sessions and screenshot analysis.
 
 ---
 
@@ -161,6 +161,38 @@ No, it is **Truthy** because it is a non-empty string.
 
 Check distance, then weather, then availability of transport.
 ![FCC Weather Planner](day-5/Screenshot%202026-06-03%20at%203.12.37%E2%80%AFPM.png)
+</details>
+
+---
+
+## ⚪ Day 6: Environment Setup & Installation
+*Focus: Preparing the development environment on Windows.*
+
+### 1. Installation Essentials
+- **Official Source**: Always download Python from [python.org](https://python.org).
+- **Windows Installer**: Uses an executable (`.exe`) file.
+- **PATH Variable**: Crucial to check **"Add Python to PATH"** during installation for command-line access.
+
+### 🧠 Day 6 Knowledge Check
+<details>
+<summary><b>Q1: Which address can you download Python from?</b></summary>
+
+Python's official website is `python.org`.
+![Download Source](day-6/Screenshot%202026-06-04%20at%206.59.07%E2%80%AFPM.png)
+</details>
+
+<details>
+<summary><b>Q2: How can you get Python added to path automatically on Windows?</b></summary>
+
+By checking the **"add to path"** checkbox during the installation process.
+![Add to PATH](day-6/Screenshot%202026-06-04%20at%206.59.14%E2%80%AFPM.png)
+</details>
+
+<details>
+<summary><b>Q3: What kind of file do you download while installing Python for Windows?</b></summary>
+
+An executable file (`.exe`).
+![Executable Installer](day-6/Screenshot%202026-06-04%20at%206.59.19%E2%80%AFPM.png)
 </details>
 
 ---
