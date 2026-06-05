@@ -1,4 +1,4 @@
-# 🎓 6-Day Python Learning Journey
+# 🎓 7-Day Python Learning Journey
 
 This log tracks a structured 6-day "Fast-Track" curriculum derived from daily practice sessions and screenshot analysis.
 
@@ -193,6 +193,38 @@ By checking the **"add to path"** checkbox during the installation process.
 
 An executable file (`.exe`).
 ![Executable Installer](day-6/Screenshot%202026-06-04%20at%206.59.19%E2%80%AFPM.png)
+</details>
+
+---
+
+## 🟤 Day 7: Interactive Scripting & Terminal Execution
+*Focus: Transitioning from code snippets to functional terminal applications.*
+
+### 1. Terminal Interaction
+- **The `input()` Function**: Allows capturing user data directly from the terminal. Note: Always returns data as a **string**.
+- **Script Execution**: Running files via `python main.py` or `python3 main.py` depending on the environment.
+- **Dynamic Output**: Combining logic from previous days with user-provided data for real-time results.
+
+### 🧠 Day 7 Knowledge Check
+<details>
+<summary><b>Q1: What data type does the input() function return by default?</b></summary>
+
+It always returns a **string**, even if the user enters a number.
+![Input Logic](day-7/Screenshot%202026-06-05%20at%208.22.28%E2%80%AFPM.png)
+</details>
+
+<details>
+<summary><b>Q2: How do you run a Python script from the terminal?</b></summary>
+
+By typing `python` followed by the filename (e.g., `python main.py`).
+![Terminal Execution](day-7/Screenshot%202026-06-05%20at%208.22.34%E2%80%AFPM.png)
+</details>
+
+<details>
+<summary><b>Q3: How do you use variables inside a print statement for a terminal script?</b></summary>
+
+Using commas or f-strings to combine text with user input.
+![Scripting Result](day-7/Screenshot%202026-06-05%20at%208.22.45%E2%80%AFPM.png)
 </details>
 
 ---
