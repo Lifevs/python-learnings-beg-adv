@@ -1,6 +1,6 @@
-# 🎓 7-Day Python Learning Journey
+# 🎓 Python Learning Journey
 
-This log tracks a structured 6-day "Fast-Track" curriculum derived from daily practice sessions and screenshot analysis.
+This log tracks a structured curriculum derived from daily practice sessions, coding projects, and comprehensive knowledge checks.
 
 ---
 
@@ -30,20 +30,6 @@ Variables are declared using the assignment operator `=`.
 
 Must start with a letter/underscore, case-sensitive, no keywords.
 ![Naming Rules](Screenshot%202026-05-27%20at%2011.39.52%E2%80%AFAM.png)
-</details>
-
-<details>
-<summary><b>Q3: How does the print() function handle multiple arguments?</b></summary>
-
-It automatically inserts a space between them.
-![Print Formatting](Screenshot%202026-05-27%20at%2011.49.04%E2%80%AFAM.png)
-</details>
-
-<details>
-<summary><b>Q4: How do you check the type of a variable?</b></summary>
-
-Use `type()` or `isinstance()` for specific checks.
-![isinstance check](Screenshot%202026-05-27%20at%2012.38.21%E2%80%AFPM.png)
 </details>
 
 ---
@@ -76,20 +62,6 @@ No, strings are **immutable**.
 ![Immutability](Screenshot%202026-05-28%20at%205.21.10%E2%80%AFPM.png)
 </details>
 
-<details>
-<summary><b>Q3: How do you join two strings together?</b></summary>
-
-Using the `+` operator (Concatenation).
-![Joining Strings](Screenshot%202026-05-28%20at%205.29.33%E2%80%AFPM.png)
-</details>
-
-<details>
-<summary><b>Q4: How do you replace text within a string?</b></summary>
-
-Using the `.replace()` method.
-![Replace Method](Screenshot%202026-05-28%20at%205.57.37%E2%80%AFPM.png)
-</details>
-
 ---
 
 ## 🔴 Day 3: Numbers, Operators & Career Research
@@ -112,13 +84,6 @@ Using the `.replace()` method.
 ![Division Quiz](Screenshot%202026-05-28%20at%206.56.09%E2%80%AFPM.png)
 </details>
 
-<details>
-<summary><b>Q2: Does Python support the x++ increment operator?</b></summary>
-
-No, you must use `x += 1`.
-![Increment Warning](Screenshot%202026-05-28%20at%207.00.47%E2%80%AFPM.png)
-</details>
-
 ---
 
 ## 🔵 Day 4: Logic, Control Flow & Booleans
@@ -130,7 +95,6 @@ No, you must use `x += 1`.
 
 ### 2. Control Flow (`if`, `elif`, `else`)
 - **Indentation**: Python relies on consistent whitespace to define code blocks.
-- **Multi-way Branching**: `elif` allows for checking multiple mutually exclusive conditions.
 
 ### 🧠 Day 4 Knowledge Check
 <details>
@@ -138,13 +102,6 @@ No, you must use `x += 1`.
 
 In an `or` expression, if the first value is `True`, Python skips evaluating the second value.
 ![Efficiency Logic](day-4/Screenshot%202026-06-01%20at%206.53.43%E2%80%AFPM.png)
-</details>
-
-<details>
-<summary><b>Q2: Is the string "False" considered Falsy in Python?</b></summary>
-
-No, it is **Truthy** because it is a non-empty string.
-![Truthiness Quiz](day-4/Screenshot%202026-06-01%20at%206.53.38%E2%80%AFPM.png)
 </details>
 
 ---
@@ -166,33 +123,18 @@ Check distance, then weather, then availability of transport.
 ---
 
 ## ⚪ Day 6: Environment Setup & Installation
-*Focus: Preparing the development environment on Windows.*
+*Focus: Preparing the development foundation on Windows.*
 
 ### 1. Installation Essentials
 - **Official Source**: Always download Python from [python.org](https://python.org).
-- **Windows Installer**: Uses an executable (`.exe`) file.
 - **PATH Variable**: Crucial to check **"Add Python to PATH"** during installation for command-line access.
 
 ### 🧠 Day 6 Knowledge Check
 <details>
-<summary><b>Q1: Which address can you download Python from?</b></summary>
-
-Python's official website is `python.org`.
-![Download Source](day-6/Screenshot%202026-06-04%20at%206.59.07%E2%80%AFPM.png)
-</details>
-
-<details>
-<summary><b>Q2: How can you get Python added to path automatically on Windows?</b></summary>
+<summary><b>Q1: How can you get Python added to path automatically on Windows?</b></summary>
 
 By checking the **"add to path"** checkbox during the installation process.
 ![Add to PATH](day-6/Screenshot%202026-06-04%20at%206.59.14%E2%80%AFPM.png)
-</details>
-
-<details>
-<summary><b>Q3: What kind of file do you download while installing Python for Windows?</b></summary>
-
-An executable file (`.exe`).
-![Executable Installer](day-6/Screenshot%202026-06-04%20at%206.59.19%E2%80%AFPM.png)
 </details>
 
 ---
@@ -202,8 +144,7 @@ An executable file (`.exe`).
 
 ### 1. Terminal Interaction
 - **The `input()` Function**: Allows capturing user data directly from the terminal. Note: Always returns data as a **string**.
-- **Script Execution**: Running files via `python main.py` or `python3 main.py` depending on the environment.
-- **Dynamic Output**: Combining logic from previous days with user-provided data for real-time results.
+- **Script Execution**: Running files via `python main.py` or `python3 main.py`.
 
 ### 🧠 Day 7 Knowledge Check
 <details>
@@ -213,18 +154,33 @@ It always returns a **string**, even if the user enters a number.
 ![Input Logic](day-7/Screenshot%202026-06-05%20at%208.22.28%E2%80%AFPM.png)
 </details>
 
-<details>
-<summary><b>Q2: How do you run a Python script from the terminal?</b></summary>
+---
 
-By typing `python` followed by the filename (e.g., `python main.py`).
-![Terminal Execution](day-7/Screenshot%202026-06-05%20at%208.22.34%E2%80%AFPM.png)
+## 🏁 Day 8: The Ultimate Python Basics Quiz
+*Focus: Validating foundational knowledge and environment mastery.*
+
+### 1. The Python Ecosystem
+- **Official Source**: Downloading from `python.org`.
+- **Development Tools**: Understanding IDEs like VS Code and PyCharm.
+- **Terminal Proficiency**: Differentiating between the system terminal and the Python interactive shell.
+
+### 2. Mastering the REPL
+- **REPL**: Stands for **Read-Evaluate-Print Loop**.
+- **The Prompt**: The `>>>` symbol indicates Python is ready for input.
+
+### 🧠 Day 8 Knowledge Check
+<details>
+<summary><b>Q1: What command starts the Python interactive shell?</b></summary>
+
+Simply typing `python` in the terminal and pressing enter.
+![Shell Command](day-8/Screenshot%202026-06-07%20at%2010.46.01%E2%80%AFPM.png)
 </details>
 
 <details>
-<summary><b>Q3: How do you use variables inside a print statement for a terminal script?</b></summary>
+<summary><b>Q2: What does REPL stand for?</b></summary>
 
-Using commas or f-strings to combine text with user input.
-![Scripting Result](day-7/Screenshot%202026-06-05%20at%208.22.45%E2%80%AFPM.png)
+**Read-Evaluate-Print Loop**.
+![REPL Review](day-8/Screenshot%202026-06-07%20at%2010.47.53%E2%80%AFPM.png)
 </details>
 
 ---
