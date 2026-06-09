@@ -20,15 +20,18 @@ Each day includes a curriculum and a **dedicated quiz section** using real-world
   - Installing Python on Windows and configuring the PATH variable.
 - [**Day 7: Interactive Scripting**](python-learnings/day-7/README.md)
   - Capturing user input and running scripts via the terminal.
+- [**Day 8: The Ultimate Quiz**](python-learnings/day-8/README.md)
+  - Comprehensive review of the Python ecosystem and REPL.
+- [**Day 9: Revision Day**](python-learnings/day-9/README.md)
+  - Consolidating knowledge and reinforcing core foundations.
 
 ## 📁 Repository Structure
 
 - **`python-learnings/`**: Core learning directory.
-  - `LEARNINGS.md`: Comprehensive 7-day curriculum with interactive quizzes.
-  - **`day-4/`**: Logic projects and project-specific knowledge checks.
-  - **`day-5/`**: Advanced commute planner and logic verification.
-  - **`day-6/`**: Environment setup and installation guides.
-  - **`day-7/`**: Interactive scripting and terminal execution.
+  - `LEARNINGS.md`: Comprehensive curriculum with interactive quizzes.
+  - **`day-4/`** to **`day-7/`**: Specific project and environment modules.
+  - **`day-8/`**: Final foundations quiz and ecosystem validation.
+  - **`day-9/`**: Revision notes and knowledge consolidation.
 
 ---
 *Documentation enhanced with interactive Knowledge Checks for optimal retention.*
